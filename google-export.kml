@@ -3,9 +3,9 @@
   <Document>
     <name>Galileo Bookmark Import Test</name>
     <description><![CDATA[I'm testing Galileo Offilne Maps bookmark importing support. It imported all of my markers with the default star, but I'd like to see if I can get it to import with actual icons. So I'm going to play around with that using this. I suspect I know what needs to be done, and this is an experiment to do that.]]></description>
-    <Style id="icon-1603-0288D1-nodesc-normal">
+    <Style id="icon-1765-757575-normal">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff757575</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -14,13 +14,10 @@
       <LabelStyle>
         <scale>0</scale>
       </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="icon-1603-0288D1-nodesc-highlight">
+    <Style id="icon-1765-757575-highlight">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff757575</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -29,28 +26,26 @@
       <LabelStyle>
         <scale>1</scale>
       </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1603-0288D1-nodesc">
+    <StyleMap id="icon-1765-757575">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1603-0288D1-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1765-757575-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1603-0288D1-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1765-757575-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Markers</name>
+      <name>Untitled layer</name>
       <Placemark>
-        <name>1100 SE 12th Ave</name>
-        <styleUrl>#icon-1603-0288D1-nodesc</styleUrl>
+        <name>place</name>
+        <description>this is a place</description>
+        <styleUrl>#icon-1765-757575</styleUrl>
         <Point>
           <coordinates>
-            -122.6533701,45.5148999,0
+            -122.65347,45.5141361,0
           </coordinates>
         </Point>
       </Placemark>

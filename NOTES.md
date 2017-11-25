@@ -91,3 +91,10 @@ And sure enough, if I change the `styleUrl` to be prefixed with a `#`, it works 
 If I modify the style in the galileo-export.kml to be `BookmarkStyle_68`, Galileo correctly imports the file with the updated marker. This lead me to believe that I could convert the Google KML into something Galileo could consume pretty easily.
 
 Further experimenting lead me to find out that Galileo actually doesn't care about *anything* other than the contents of the `styleUrl` tag. If I change `<styleUrl>BookmarkStyle_69</styleUrl>` to `<styleUrl>BookmarkStyle_42</styleUrl>`, without modifying any other part of the file, it works just fine. So I can be extremely lazy and change the `styleUrl` tags in the google output to what GOM expects and it will just work. And for my first iteration, that is exactly what I'm going to do. I'd prefer to keep the file valid and usable for other things, so I'll work on changing that out next, but at first, to get *me* going, I'll just modify th styleUrl in place.
+
+
+# first iteration
+
+My immediate thinking is "this is XML, I should use XSLT", and that would be correct. But I'll save that for the next iteration. Minimum viable product and such.
+
+So the first iteration is going to be a ruby script which opens the kml file, reads it line by line, finds the `styleUrl` tag, and updates using that mapping (which I'll export as a csv file that the ruby script can consume)

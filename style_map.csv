@@ -1,0 +1,103 @@
+"This is a mapping from google mymaps icons to galileo. The color codes for google maps aren't 100% direct translations, but I tried to match them.",,,,,,
+google maps style,google maps icon code,color code (optional),galileo style,galileo image,description,notes
+icon-1502-0288D1,1502,0288D1,BookmarkStyle_0,,blue star,
+icon-1512-7CB342,1512,7CB342,BookmarkStyle_1,,bank,
+icon-1539-757575,1539,757575,BookmarkStyle_2,,auto repair,
+icon-1709-0097A7,1709,0097A7,BookmarkStyle_3,,theater,
+icon-1726-7CB342,1726,7CB342,BookmarkStyle_4,,university,
+icon-1635-0097A7,1635,0097A7,BookmarkStyle_5,,movie theater,
+icon-1577-0288D1,1577,0288D1,BookmarkStyle_6,,restaurant,
+icon-1624-FF5252,1624,FF5252,BookmarkStyle_7,,hospital,
+icon-1655-7CB342,1655,7CB342,BookmarkStyle_8,,police station,
+icon-1603-7CB342,1603,7CB342,BookmarkStyle_9,,house,
+icon-1685-9C27B0,1685,9C27B0,BookmarkStyle_10,,shopping cart,
+icon-1696-F57C00,1696,F57C00,BookmarkStyle_11,,soccer ball,
+icon-1504-757575,1504,757575,BookmarkStyle_12,,airport,
+icon-1527-F57C00,1527,F57C00,BookmarkStyle_13,,bowling,
+icon-1534-0288D1,1534,0288D1,BookmarkStyle_14,,cafe,
+icon-1765-757575,1765,757575,BookmarkStyle_15,,camping,
+icon-1581-757575,1581,757575,BookmarkStyle_16,,fuel,
+icon-1799-F57C00,1799,F57C00,BookmarkStyle_17,,golf course,
+icon-1592-F57C00,1592,F57C00,BookmarkStyle_18,,dating,
+icon-1602-0288D1,1602,0288D1,BookmarkStyle_19,,hotel,
+icon-1599-0097A7,1599,0097A7,BookmarkStyle_20,,monument,
+icon-1548-0097A7,1548,0097A7,BookmarkStyle_21,,civic building,
+icon-1644-757575,1644,757575,BookmarkStyle_22,,parking,
+icon-1518-0288D1,1518,0288D1,BookmarkStyle_23,,pub,
+icon-1716-757575,1716,757575,BookmarkStyle_24,,train,
+icon-1895-0288D1,1895,0288D1,BookmarkStyle_25,,wifi,
+icon-1502-9C27B0,1502,9C27B0,BookmarkStyle_26,,purple star,
+icon-1502-F57C00,1502,F57C00,BookmarkStyle_27,,orange star,
+icon-1502-0097A7,1502,0097A7,BookmarkStyle_28,,teal star,
+icon-1502-7CB342,1502,7CB342,BookmarkStyle_29,,green star,
+,,9C27B0,BookmarkStyle_30,,1,does not exist in google
+,,9C27B0,BookmarkStyle_31,,2,does not exist in google
+,,9C27B0,BookmarkStyle_32,,3,does not exist in google
+,,9C27B0,BookmarkStyle_33,,4,does not exist in google
+,,9C27B0,BookmarkStyle_34,,5,does not exist in google
+,,9C27B0,BookmarkStyle_35,,6,does not exist in google
+,,9C27B0,BookmarkStyle_36,,7,does not exist in google
+,,9C27B0,BookmarkStyle_37,,8,does not exist in google
+,,9C27B0,BookmarkStyle_38,,9,does not exist in google
+,,9C27B0,BookmarkStyle_39,,10,does not exist in google
+icon-1532-757575,1532,757575,BookmarkStyle_40,,bus,
+icon-1516-7CB342,1516,7CB342,BookmarkStyle_41,,salon / barber,
+icon-1522-757575,1522,757575,BookmarkStyle_42,,bicycle,I think this is supposed to be a bike trail but that's not in google maps
+icon-1569-757575,1569,757575,BookmarkStyle_43,,ferry,
+icon-1540-0288D1,1540,0288D1,BookmarkStyle_44,,casino,"google maps has dice, this has cards. shrug!"
+icon-1517-0288D1,1517,0288D1,BookmarkStyle_45,,cocktails,
+icon-1557-FF5252,1557,FF5252,BookmarkStyle_46,,dentist,
+icon-1570-0288D1,1570,0288D1,BookmarkStyle_47,,financial services,"the *first* thing that came to mind was spectrum analyzer. But that's not correct, of course. But the next thing was ""stock market or something"" and google has something similar with financial services, so I'll match it to that."
+icon-1589-F57C00,1589,F57C00,BookmarkStyle_48,,gym,
+icon-1608-757575,1608,757575,BookmarkStyle_49,,info,
+icon-1614-0288D1,1614,0288D1,BookmarkStyle_50,,karaoke,
+,,F57C00,BookmarkStyle_51,,person,"... not really sure. google maps has a ""missing person"" but I doubt this is that."
+icon-1637-0097A7,1637,0097A7,BookmarkStyle_52,,music,
+icon-1547-7CB342,1547,7CB342,BookmarkStyle_53,,office,"not a super direct mapping here. I think this is ""office"". could be apartment. There's ""city"" and ""downtown"" in google maps. downtown seemed closer?"
+icon-1651-0288D1,1651,0288D1,BookmarkStyle_54,,pizza,
+icon-1652-F57C00,1652,F57C00,BookmarkStyle_55,,playground,
+icon-1701-F57C00,1701,F57C00,BookmarkStyle_56,,swimming pool,
+icon-1659-7CB342,1659,7CB342,BookmarkStyle_57,,post office,
+icon-1737-F57C00,1737,F57C00,BookmarkStyle_58,,yoga,
+icon-1508-FF5252,1508,FF5252,BookmarkStyle_59,,animal shelter,"not really certain on this. It's red, so it leads me to believe something something emergency. but there's veterinarian below. Vet -> animal services. This -> animal shelter. Sure."
+icon-1567-0288D1,1567,0288D1,BookmarkStyle_60,,fast food,
+icon-1841-FF5252,1841,FF5252,BookmarkStyle_61,,pharmacy,"in google maps there's what I would think of for pharmacy, and this is ""pharmacy (europe)"" ... so despite my american centricness, I stayed true to the app :) perhaps I'll accept both when converting from google maps to galileo"
+icon-1578-9C27B0,1578,9C27B0,BookmarkStyle_62,,grocery store,"to me this says ""shopping basket"". the cart is like a full on supermarket, this is more like a smaller grocery store? I dunno. Especially because the purple ones seem to be shopping / retail oriented."
+icon-1741-757575,1741,757575,BookmarkStyle_63,,car rental,
+,,757575,BookmarkStyle_64,,carpool,not in google maps
+icon-1684-9C27B0,1684,9C27B0,BookmarkStyle_65,,shopping,
+icon-1613-9C27B0,1613,9C27B0,BookmarkStyle_66,,jewelry,
+icon-1854-9C27B0,1854,9C27B0,BookmarkStyle_67,,toys,"isn't really a toy store in google maps, but robots are toys right"
+icon-1686-9C27B0,1686,9C27B0,BookmarkStyle_68,,shop,
+icon-1549-9C27B0,1549,9C27B0,BookmarkStyle_69,,clothing,
+icon-1753-7CB342,1753,7CB342,BookmarkStyle_70,,atm,
+icon-1787-757575,1787,757575,BookmarkStyle_71,,electric vehicle charging,
+icon-1502-FF5252,1502,FF5252,BookmarkStyle_72,,red star,
+icon-1502-757575,1502,757575,BookmarkStyle_73,,grey star,
+icon-1568-F57C00,1568,F57C00,BookmarkStyle_74,,amusement park,
+icon-1718-757575,1718,757575,BookmarkStyle_75,,tram,
+icon-1729-0097A7,1729,0097A7,BookmarkStyle_76,,vista,"honestly I had no idea, but I saw the google maps icon and went with it. it fits with the color category"
+icon-1733-0097A7,1733,0097A7,BookmarkStyle_77,,restroom,
+icon-1538-757575,1538,757575,BookmarkStyle_78,,car,
+icon-1703-0288D1,1703,0288D1,BookmarkStyle_79,,water,
+icon-1506-FF5252,1506,FF5252,BookmarkStyle_80,,veterinarian,
+,,,BookmarkStyle_81,,,
+,,,BookmarkStyle_82,,,
+,,,BookmarkStyle_83,,,
+,,,BookmarkStyle_84,,,
+,,,BookmarkStyle_85,,,
+,,,BookmarkStyle_86,,,
+,,,BookmarkStyle_87,,,
+,,,BookmarkStyle_88,,,
+,,,BookmarkStyle_89,,,
+,,,BookmarkStyle_90,,,
+,,,BookmarkStyle_91,,,
+,,,BookmarkStyle_92,,,
+,,,BookmarkStyle_93,,,
+,,,BookmarkStyle_94,,,
+,,,BookmarkStyle_95,,,
+,,,BookmarkStyle_96,,,
+,,,BookmarkStyle_97,,,
+,,,BookmarkStyle_98,,,
+,,,BookmarkStyle_99,,,
+,,,BookmarkStyle_100,,,
