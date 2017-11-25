@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<atom:author>
+			<atom:name>GalileoPro/3.7.4</atom:name>
+		</atom:author>
+		<Style id="BookmarkStyle_69">
+			<IconStyle>
+				<Icon>
+					<href>http://shared.galileo-app.com/static/img/bookmark/BookmarkStyle_69.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<gx:TimeStamp>2017-11-17T06:50:44.697Z</gx:TimeStamp>
+			<name>GOM native marker</name>
+			<styleUrl>BookmarkStyle_69</styleUrl>
+			<Point>
+				<coordinates>-122.653376,45.51388786,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
+
